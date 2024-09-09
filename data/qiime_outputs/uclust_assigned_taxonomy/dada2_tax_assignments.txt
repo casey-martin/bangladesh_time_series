@@ -1,0 +1,1251 @@
+seq_988	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_989	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+seq_401	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_986	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Coprobacillus; s__	1.00	3
+seq_400	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	0.67	3
+seq_455	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	0.67	3
+seq_818	Unassigned	1.00	1
+seq_1128	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Bulleidia; s__	0.67	3
+seq_984	Unassigned	1.00	1
+seq_1245	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_819	Unassigned	1.00	1
+seq_241	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	1.00	3
+seq_169	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_243	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_242	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_245	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_244	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Dysgonomonas; s__	1.00	3
+seq_247	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_246	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_160	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__	0.67	3
+seq_161	k__Bacteria; p__Firmicutes; c__Bacilli; o__Turicibacterales; f__Turicibacteraceae; g__Turicibacter; s__	1.00	3
+seq_162	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_163	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__; s__	1.00	3
+seq_164	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_165	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_166	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	0.67	3
+seq_167	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_814	Unassigned	1.00	1
+seq_980	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_815	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_784	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_453	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_716	Unassigned	1.00	1
+seq_409	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_785	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_408	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Brevibacteriaceae; g__Brevibacterium; s__	0.67	3
+seq_1162	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__; s__	1.00	3
+seq_810	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_1075	Unassigned	1.00	1
+seq_811	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_812	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales	1.00	3
+seq_1247	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	2
+seq_813	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_73	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_72	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_71	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_70	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_77	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae	0.67	3
+seq_76	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_75	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_74	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_79	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_78	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_1049	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__garvieae	0.67	3
+seq_1036	Unassigned	1.00	1
+seq_1047	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1046	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae	0.67	3
+seq_1045	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	1.00	3
+seq_1044	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_1043	Unassigned	1.00	1
+seq_1042	Unassigned	1.00	1
+seq_1041	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Jonquetella; s__anthropi	1.00	1
+seq_1040	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_546	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_547	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_399	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_545	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_429	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_428	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_540	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_541	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales	0.67	3
+seq_425	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_424	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_427	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum	1.00	3
+seq_426	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__	0.67	3
+seq_421	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_420	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_423	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_422	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_1160	Unassigned	1.00	1
+seq_1223	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__; s__	0.67	3
+seq_530	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1148	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_747	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__mizutaii	0.67	3
+seq_1146	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__; s__	0.67	3
+seq_928	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae	0.67	3
+seq_1144	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	0.67	3
+seq_1145	Unassigned	1.00	1
+seq_1142	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_1143	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__	0.67	3
+seq_898	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Mycoplana; s__	0.67	3
+seq_929	Unassigned	1.00	1
+seq_1163	Unassigned	1.00	1
+seq_1164	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__	1.00	2
+seq_561	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1222	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Intrasporangiaceae	1.00	3
+seq_924	Unassigned	1.00	1
+seq_948	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_853	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__; s__	0.67	3
+seq_1240	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__WAL_1855D; s__	1.00	3
+seq_1166	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__WAL_1855D; s__	1.00	3
+seq_925	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__; s__	0.67	3
+seq_942	Unassigned	1.00	1
+seq_943	k__Bacteria; p__TM7; c__TM7-3; o__I025; f__Rs-045; g__; s__	1.00	2
+seq_940	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_941	Unassigned	1.00	1
+seq_899	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingobium; s__	1.00	3
+seq_539	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__; s__	1.00	3
+seq_944	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	1.00	3
+seq_945	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	3
+seq_689	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__	1.00	2
+seq_168	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Nitrosomonadaceae; g__; s__	0.67	3
+seq_283	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Facklamia; s__	1.00	3
+seq_538	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_726	Unassigned	1.00	1
+seq_727	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_724	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas; s__diminuta	0.67	3
+seq_240	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_681	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_680	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__	1.00	3
+seq_683	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_682	Unassigned	1.00	1
+seq_685	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum	1.00	3
+seq_684	Unassigned	1.00	1
+seq_687	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Methylophilales; f__Methylophilaceae; g__Methylotenera; s__mobilis	0.67	3
+seq_686	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_339	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_338	Unassigned	1.00	1
+seq_922	Unassigned	1.00	1
+seq_331	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_330	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_333	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_332	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_335	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	1.00	3
+seq_334	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	1.00	3
+seq_337	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__	1.00	3
+seq_336	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	3
+seq_1151	Unassigned	1.00	1
+seq_1150	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales	1.00	3
+seq_1220	Unassigned	1.00	1
+seq_754	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_836	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_249	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_834	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_835	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_832	Unassigned	1.00	1
+seq_833	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_830	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_248	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_1155	Unassigned	1.00	1
+seq_1048	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__; s__	0.67	3
+seq_838	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfobacterales; f__Desulfobulbaceae; g__; s__	1.00	3
+seq_839	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_5	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_4	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_7	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_205	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	2
+seq_204	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_207	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	0.67	3
+seq_206	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	1.00	3
+seq_201	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_200	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_203	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_202	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_616	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Pseudoxanthomonas; s__	0.67	3
+seq_1	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_614	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_615	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_209	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_208	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_610	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	1
+seq_611	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_751	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__	1.00	3
+seq_1093	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__; s__	1.00	3
+seq_180	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_2	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	1.00	3
+seq_971	Unassigned	1.00	1
+seq_963	Unassigned	1.00	1
+seq_1244	k__Bacteria; p__Planctomycetes; c__Pla3; o__; f__; g__; s__	0.67	3
+seq_1103	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_1100	Unassigned	1.00	1
+seq_965	Unassigned	1.00	1
+seq_750	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1037	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Rhodospirillaceae; g__; s__	1.00	3
+seq_1034	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1035	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Anaerotruncus; s__	1.00	3
+seq_1032	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	1.00	3
+seq_1033	Unassigned	1.00	1
+seq_1030	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_1031	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens	1.00	3
+seq_1106	Unassigned	1.00	1
+seq_1038	k__Bacteria; p__Firmicutes; c__Bacilli; o__Turicibacterales; f__Turicibacteraceae; g__Turicibacter; s__	1.00	3
+seq_1039	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1129	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__	1.00	3
+seq_1104	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Rhodobacter; s__	0.67	3
+seq_1105	Unassigned	1.00	1
+seq_1154	Unassigned	1.00	1
+seq_111	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_110	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+seq_113	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+seq_112	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_115	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_114	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_117	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_116	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__	1.00	3
+seq_119	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_118	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	0.67	3
+seq_773	Unassigned	1.00	1
+seq_1024	Unassigned	1.00	1
+seq_930	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_599	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__; s__	0.67	3
+seq_774	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+seq_508	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_509	Unassigned	1.00	1
+seq_502	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_503	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	2
+seq_500	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_501	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_506	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_507	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_504	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_505	Unassigned	1.00	1
+seq_779	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Arcanobacterium; s__	1.00	3
+seq_1204	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__	0.67	3
+seq_598	Unassigned	1.00	1
+seq_778	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_673	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1125	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__; s__	0.67	3
+seq_675	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_48	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_49	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_42	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis	1.00	3
+seq_43	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__	1.00	3
+seq_40	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_41	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_46	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+seq_47	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+seq_44	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Phascolarctobacterium; s__	1.00	3
+seq_45	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Roseburia; s__	0.67	3
+seq_476	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_477	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_474	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	0.67	3
+seq_475	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+seq_379	k__Bacteria; p__Tenericutes; c__RF3; o__ML615J-28; f__; g__; s__	1.00	3
+seq_378	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__rc4-4; s__	0.67	3
+seq_470	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_471	Unassigned	1.00	1
+seq_375	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_374	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_377	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_376	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_371	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_370	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_373	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_372	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_579	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Eggerthella; s__lenta	1.00	3
+seq_578	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_577	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_576	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_575	Unassigned	1.00	1
+seq_574	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	2
+seq_573	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_572	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_571	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_570	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1172	Unassigned	1.00	1
+seq_1127	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_973	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_972	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Odoribacter; s__	1.00	3
+seq_878	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfobacterales; f__Desulfobulbaceae; g__; s__	1.00	3
+seq_879	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_977	Unassigned	1.00	1
+seq_976	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_975	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Hydrogenophaga; s__	0.67	3
+seq_974	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_872	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	0.67	3
+seq_873	Unassigned	1.00	1
+seq_870	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_871	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__; s__	0.67	3
+seq_876	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Enhydrobacter; s__	1.00	3
+seq_877	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_874	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_875	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+seq_652	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_653	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_650	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_651	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	3
+seq_656	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_657	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_654	Unassigned	1.00	1
+seq_655	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_658	Unassigned	1.00	1
+seq_659	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_894	Unassigned	1.00	1
+seq_700	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__Acetobacter	0.67	3
+seq_719	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_718	Unassigned	1.00	1
+seq_890	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_891	Unassigned	1.00	1
+seq_892	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_701	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_713	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_289	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_711	Unassigned	1.00	1
+seq_710	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_717	Unassigned	1.00	1
+seq_702	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+seq_715	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_288	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1250	Unassigned	1.00	1
+seq_489	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Pediococcus; s__	0.67	3
+seq_488	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_483	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_482	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	1.00	3
+seq_481	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dermabacteraceae	1.00	3
+seq_480	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Gallicola; s__	1.00	3
+seq_487	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_486	Unassigned	1.00	1
+seq_485	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_484	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanosphaera; s__	0.67	3
+seq_897	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	1
+seq_706	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae	0.67	3
+seq_707	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1126	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_1122	k__Bacteria; p__TM7; c__TM7-3; o__; f__; g__; s__	1.00	3
+seq_1008	Unassigned	1.00	1
+seq_544	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_1231	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Adlercreutzia; s__	1.00	1
+seq_936	Unassigned	1.00	1
+seq_178	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__	0.67	3
+seq_155	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae	1.00	3
+seq_154	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_157	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_156	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_151	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	1.00	3
+seq_150	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_153	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_152	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_282	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	0.67	3
+seq_159	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+seq_158	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__1-68; s__	0.67	3
+seq_629	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_628	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	3
+seq_397	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_396	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__	0.67	3
+seq_395	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Acidaminococcus; s__	0.67	3
+seq_394	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__; s__	1.00	3
+seq_393	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Coprobacillus; s__	1.00	3
+seq_392	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_258	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__	1.00	3
+seq_259	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_256	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_257	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	1
+seq_254	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_255	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_252	Unassigned	1.00	1
+seq_253	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_250	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae	1.00	3
+seq_251	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_992	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_1175	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__	1.00	3
+seq_1218	Unassigned	1.00	1
+seq_542	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_997	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_996	Unassigned	1.00	1
+seq_1191	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_721	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium; s__	0.67	3
+seq_998	Unassigned	1.00	1
+seq_472	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__Peptococcus; s__	1.00	3
+seq_1174	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_473	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_543	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_809	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_88	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	1.00	3
+seq_89	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Anaeroplasmatales; f__Anaeroplasmataceae; g__; s__	1.00	1
+seq_86	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_87	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_84	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+seq_85	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Odoribacter; s__	1.00	3
+seq_82	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_83	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Bilophila; s__	1.00	3
+seq_80	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae	1.00	3
+seq_81	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_1072	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_807	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__	0.67	3
+seq_1070	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum	1.00	3
+seq_1071	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_1076	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_1077	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1074	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__	1.00	3
+seq_806	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1078	Unassigned	1.00	1
+seq_1079	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_805	Unassigned	1.00	1
+seq_533	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_532	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium; s__	1.00	3
+seq_438	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_439	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_537	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_536	k__Bacteria; p__TM7; c__TM7-3; o__; f__; g__; s__	1.00	3
+seq_535	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+seq_534	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	3
+seq_432	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_433	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_430	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_431	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_436	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_437	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_434	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Leuconostocaceae; g__Leuconostoc; s__	1.00	3
+seq_435	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1098	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_1099	Unassigned	1.00	1
+seq_1153	k__Bacteria; p__TM7; c__TM7-3; o__; f__; g__; s__	1.00	3
+seq_1152	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Intrasporangiaceae; g__; s__	0.67	3
+seq_947	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__Mogibacterium; s__	1.00	3
+seq_478	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_1157	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Anaerotruncus; s__	1.00	1
+seq_1156	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Phyllobacteriaceae	0.67	3
+seq_1090	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	0.67	3
+seq_1091	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_1092	Unassigned	1.00	1
+seq_479	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	0.67	3
+seq_1094	Unassigned	1.00	1
+seq_1095	Unassigned	1.00	1
+seq_1096	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_1097	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__cryaerophilus	1.00	3
+seq_1013	Unassigned	1.00	1
+seq_1251	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	0.67	3
+seq_1192	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__granulosum	1.00	3
+seq_828	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_743	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__	1.00	3
+seq_15	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_14	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__	0.67	3
+seq_17	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	1.00	3
+seq_16	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_11	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__	1.00	3
+seq_10	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__distasonis	1.00	3
+seq_13	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_12	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1241	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_19	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_18	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__Paraprevotella; s__	1.00	3
+seq_326	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+seq_327	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_324	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_325	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_322	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_323	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_320	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus	1.00	3
+seq_321	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_285	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_284	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Leptothrix; s__	0.67	3
+seq_287	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	2
+seq_286	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	0.67	3
+seq_281	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__Mogibacterium; s__	1.00	3
+seq_280	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_328	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_329	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_991	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__neonatale	0.67	3
+seq_990	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_816	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria	1.00	3
+seq_946	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_995	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__; s__	1.00	3
+seq_994	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__	1.00	3
+seq_449	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	0.67	3
+seq_448	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_447	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_446	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_445	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_444	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+seq_443	k__Bacteria; p__Tenericutes; c__RF3; o__ML615J-28; f__; g__; s__	1.00	3
+seq_442	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_441	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__SBla14; f__; g__; s__	0.67	3
+seq_440	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	3
+seq_843	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Chryseobacterium; s__	1.00	3
+seq_1215	Unassigned	1.00	1
+seq_939	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Arcobacter; s__cryaerophilus	0.67	3
+seq_1212	k__Bacteria; p__TM7; c__TM7-3; o__; f__; g__; s__	1.00	3
+seq_938	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1109	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Methylobacteriaceae; g__Methylobacterium; s__	0.67	3
+seq_1213	Unassigned	1.00	1
+seq_817	Unassigned	1.00	1
+seq_842	Unassigned	1.00	1
+seq_841	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_840	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_847	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Mycobacteriaceae; g__Mycobacterium; s__	1.00	3
+seq_846	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_845	Unassigned	1.00	1
+seq_844	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_849	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_848	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae	0.67	3
+seq_1232	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__	1.00	3
+seq_935	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	2
+seq_1205	k__Bacteria; p__Actinobacteria; c__Rubrobacteria; o__Rubrobacterales; f__Rubrobacteraceae; g__; s__	1.00	3
+seq_934	Unassigned	1.00	1
+seq_933	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_6	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Faecalibacterium; s__prausnitzii	0.67	3
+seq_179	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Brevibacteriaceae; g__Brevibacterium; s__	0.67	3
+seq_932	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Alicyclobacillaceae; g__Alicyclobacillus; s__	1.00	3
+seq_199	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	1.00	3
+seq_198	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_210	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__	1.00	3
+seq_211	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	1
+seq_216	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_217	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_214	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_215	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_191	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+seq_190	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Varibaculum; s__	1.00	3
+seq_218	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_219	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_195	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_194	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_197	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_196	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_634	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	0.67	3
+seq_1169	k__Bacteria; p__Firmicutes; c__Bacilli; o__Turicibacterales; f__Turicibacteraceae; g__Turicibacter; s__	1.00	3
+seq_635	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_636	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_696	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_697	Unassigned	1.00	1
+seq_694	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_637	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_692	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_693	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_690	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_691	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1234	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_630	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Hylemonella; s__	0.67	3
+seq_698	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella; s__	0.67	3
+seq_631	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis	1.00	3
+seq_170	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_632	Unassigned	1.00	1
+seq_177	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_633	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_176	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_771	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_1235	Unassigned	1.00	1
+seq_1147	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1206	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__	0.67	3
+seq_267	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_266	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__ruminis	1.00	3
+seq_265	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_264	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__zeae	0.67	3
+seq_263	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Leuconostocaceae; g__; s__	0.67	3
+seq_262	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__fragilis	1.00	3
+seq_108	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__	1.00	3
+seq_109	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+seq_106	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_107	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_104	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+seq_105	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_102	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_103	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_269	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_268	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_770	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_970	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula	1.00	3
+seq_1236	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_1140	Unassigned	1.00	1
+seq_1209	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__	1.00	3
+seq_1006	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__; g__; s__	1.00	3
+seq_1141	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_1102	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__	1.00	3
+seq_1056	Unassigned	1.00	1
+seq_1119	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__; s__	0.67	3
+seq_1118	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+seq_1115	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Jeotgalicoccus; s__	0.67	3
+seq_1114	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_1117	Unassigned	1.00	1
+seq_1116	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Jonquetella; s__anthropi	1.00	1
+seq_549	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_386	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	0.67	3
+seq_1113	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__	1.00	2
+seq_1112	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__	0.67	3
+seq_1237	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__	1.00	3
+seq_387	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dermabacteraceae; g__Brachybacterium; s__	1.00	3
+seq_1208	Unassigned	1.00	1
+seq_979	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_212	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_978	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__	0.67	3
+seq_213	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	1.00	3
+seq_1188	Unassigned	1.00	1
+seq_669	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_59	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_58	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+seq_1180	Unassigned	1.00	1
+seq_668	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae	1.00	3
+seq_1186	k__Bacteria; p__GN04; c__; o__; f__; g__; s__	0.67	3
+seq_1187	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Stramenopiles; f__; g__; s__	1.00	3
+seq_1184	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_1185	Unassigned	1.00	1
+seq_51	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__	1.00	3
+seq_50	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	1.00	3
+seq_53	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_52	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__[Ruminococcus]; s__	1.00	3
+seq_55	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_54	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_57	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnobacterium; s__	0.67	3
+seq_56	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae	0.67	3
+seq_403	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_402	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__; s__	1.00	3
+seq_368	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__; s__	0.67	3
+seq_369	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_407	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_406	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_405	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_404	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	0.67	3
+seq_362	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	2
+seq_363	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_360	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_361	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_366	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+seq_367	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__; s__	0.67	3
+seq_364	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__flavefaciens	0.67	3
+seq_365	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	1.00	3
+seq_1168	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_663	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Leuconostocaceae; g__Leuconostoc; s__	0.67	3
+seq_1203	Unassigned	1.00	1
+seq_1202	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Stramenopiles; f__; g__; s__	1.00	1
+seq_568	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_569	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dermabacteraceae; g__Dermabacter; s__	0.67	3
+seq_1207	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	1.00	3
+seq_662	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_564	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar	1.00	3
+seq_565	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	2
+seq_566	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+seq_567	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_560	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_193	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	1.00	3
+seq_562	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__	1.00	3
+seq_563	Unassigned	1.00	1
+seq_192	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	3
+seq_667	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Dechloromonas; s__	0.67	3
+seq_666	Unassigned	1.00	1
+seq_960	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium; s__	0.67	3
+seq_961	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Sediminibacterium; s__	1.00	3
+seq_962	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__; s__	1.00	3
+seq_949	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Gordoniaceae; g__Gordonia; s__	1.00	3
+seq_964	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__	1.00	3
+seq_665	Unassigned	1.00	1
+seq_966	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]	0.67	3
+seq_967	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_968	Unassigned	1.00	1
+seq_969	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_664	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1216	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__	1.00	3
+seq_1217	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__; s__	0.67	3
+seq_1131	Unassigned	1.00	1
+seq_829	Unassigned	1.00	1
+seq_926	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_708	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Vibrionales; f__Vibrionaceae; g__Vibrio	0.67	3
+seq_709	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1161	k__Bacteria; p__Actinobacteria; c__Thermoleophilia; o__Solirubrobacterales	1.00	3
+seq_804	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	0.67	3
+seq_319	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_318	k__Archaea; p__Euryarchaeota; c__Methanobacteria; o__Methanobacteriales; f__Methanobacteriaceae; g__Methanobrevibacter; s__	1.00	3
+seq_317	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Mobiluncus; s__	1.00	3
+seq_316	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__segnis	0.67	3
+seq_315	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_314	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_313	k__Bacteria; p__Firmicutes; c__Bacilli; o__Gemellales; f__Gemellaceae; g__; s__	1.00	3
+seq_312	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_311	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_310	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_498	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_499	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_776	Unassigned	1.00	1
+seq_927	Unassigned	1.00	1
+seq_895	Unassigned	1.00	1
+seq_490	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Anaerotruncus; s__	0.67	3
+seq_491	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__	0.67	3
+seq_492	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_493	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_494	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_495	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_496	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	0.67	3
+seq_497	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	1.00	3
+seq_793	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_792	Unassigned	1.00	1
+seq_791	Unassigned	1.00	1
+seq_790	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	0.67	3
+seq_797	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__	1.00	3
+seq_796	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_795	Unassigned	1.00	1
+seq_794	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_799	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__; s__	0.67	3
+seq_798	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_981	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_722	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_920	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Brucellaceae	1.00	3
+seq_1182	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Nocardioidaceae; g__; s__	1.00	3
+seq_688	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_893	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Chryseobacterium; s__	1.00	3
+seq_720	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__cc_115; s__	1.00	3
+seq_142	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__[Prevotella]; s__	1.00	3
+seq_143	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_140	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Paraprevotellaceae]; g__Paraprevotella; s__	1.00	3
+seq_141	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+seq_146	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_147	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_144	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Morganella	0.67	3
+seq_145	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_148	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	3
+seq_149	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_638	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_639	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_987	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	1.00	3
+seq_384	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__	0.67	3
+seq_385	k__Bacteria; p__Verrucomicrobia; c__Opitutae; o__[Cerasicoccales]; f__[Cerasicoccaceae]; g__; s__	1.00	3
+seq_229	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	3
+seq_228	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_380	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_381	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_382	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_383	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_223	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_222	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Sutterella; s__	1.00	3
+seq_221	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_220	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+seq_227	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_226	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar	1.00	3
+seq_225	k__Bacteria; p__Cyanobacteria; c__4C0d-2; o__YS2; f__; g__; s__	1.00	3
+seq_224	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_695	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	2
+seq_1242	Unassigned	1.00	1
+seq_714	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	2
+seq_728	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae	0.67	3
+seq_1199	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Finegoldia; s__	1.00	3
+seq_1010	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__[Chromatiaceae]; g__; s__	0.67	3
+seq_1011	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+seq_1012	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_729	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	3
+seq_1014	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__; s__	1.00	3
+seq_1015	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__	1.00	3
+seq_1016	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_1017	Unassigned	1.00	1
+seq_1018	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__	1.00	3
+seq_1019	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Adlercreutzia; s__	0.67	3
+seq_1165	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_1068	Unassigned	1.00	1
+seq_1246	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	0.67	3
+seq_985	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_923	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__; s__	1.00	3
+seq_1181	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__1-68; s__	0.67	3
+seq_137	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_136	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_135	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_134	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	0.67	3
+seq_99	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_98	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_131	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_130	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__biforme	1.00	3
+seq_95	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__	0.67	3
+seq_94	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Nitrosomonadales; f__Nitrosomonadaceae; g__; s__	0.67	3
+seq_97	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_96	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_91	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__WAL_1855D; s__	1.00	3
+seq_90	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_93	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_92	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1065	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_1064	Unassigned	1.00	1
+seq_1067	k__Bacteria; p__Bacteroidetes; c__Cytophagia; o__Cytophagales; f__Cytophagaceae; g__Emticicia; s__	1.00	3
+seq_1066	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__	1.00	3
+seq_1061	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_1060	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__rc4-4; s__	1.00	3
+seq_1063	Unassigned	1.00	1
+seq_1062	Unassigned	1.00	1
+seq_982	Unassigned	1.00	1
+seq_699	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	0.67	3
+seq_1069	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_389	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_548	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_520	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_521	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_522	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	1.00	1
+seq_523	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_524	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_525	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_526	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__	0.67	3
+seq_527	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Sphingobacterium; s__mizutaii	0.67	3
+seq_528	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__	1.00	3
+seq_529	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_913	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_912	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__; s__	0.67	3
+seq_915	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+seq_914	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_917	Unassigned	1.00	1
+seq_916	Unassigned	1.00	1
+seq_1124	k__Bacteria; p__Bacteroidetes; c__Sphingobacteriia; o__Sphingobacteriales; f__Sphingobacteriaceae; g__Pedobacter; s__	0.67	3
+seq_1108	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1089	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_388	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1120	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__	1.00	3
+seq_1121	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_983	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_1123	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_1083	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__1-68; s__	0.67	3
+seq_1082	Unassigned	1.00	1
+seq_1081	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1080	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_1087	Unassigned	1.00	1
+seq_1086	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_1085	Unassigned	1.00	1
+seq_1084	Unassigned	1.00	1
+seq_808	Unassigned	1.00	1
+seq_954	Unassigned	1.00	1
+seq_1221	Unassigned	1.00	1
+seq_20	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_21	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_22	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_23	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+seq_24	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	0.67	3
+seq_25	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__	1.00	3
+seq_26	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__	0.67	3
+seq_27	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+seq_28	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_29	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	1.00	3
+seq_1190	Unassigned	1.00	1
+seq_353	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae	0.67	3
+seq_352	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_298	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_299	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Granulicatella; s__	0.67	3
+seq_357	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Bulleidia; s__	0.67	3
+seq_356	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_355	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Cellulomonadaceae; g__Actinotalea; s__	0.67	3
+seq_354	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Holdemania; s__	0.67	3
+seq_292	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_293	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_290	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Gallicola; s__	1.00	3
+seq_291	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_296	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_297	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__	0.67	3
+seq_294	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_295	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_595	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_594	Unassigned	1.00	1
+seq_597	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_596	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_458	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_459	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_593	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	3
+seq_592	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__	1.00	3
+seq_454	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_133	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_456	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_457	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula	0.67	3
+seq_450	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__GW-34; s__	1.00	1
+seq_451	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_452	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	0.67	3
+seq_132	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_582	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium	0.67	3
+seq_583	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__	1.00	3
+seq_1050	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__	1.00	3
+seq_1229	Unassigned	1.00	1
+seq_1198	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__; s__	1.00	3
+seq_850	Unassigned	1.00	1
+seq_851	Unassigned	1.00	1
+seq_852	Unassigned	1.00	1
+seq_581	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dermabacteraceae; g__Dermabacter; s__	1.00	3
+seq_854	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__; s__	1.00	3
+seq_855	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Ralstonia; s__	0.67	3
+seq_856	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__; s__	1.00	3
+seq_857	Unassigned	1.00	1
+seq_858	Unassigned	1.00	1
+seq_859	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Eubacteriaceae; g__Anaerofustis; s__	0.67	3
+seq_1053	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__Christensenella; s__	1.00	3
+seq_186	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Adlercreutzia; s__	1.00	3
+seq_187	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_184	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Varibaculum; s__	1.00	3
+seq_185	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+seq_182	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_183	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium	1.00	3
+seq_3	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__copri	1.00	3
+seq_181	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__	0.67	3
+seq_9	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_8	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	0.67	3
+seq_188	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_189	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_678	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Cloacibacterium; s__	0.67	3
+seq_679	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	1
+seq_703	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__[Eubacterium]; s__dolichum	1.00	3
+seq_772	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_775	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__Hydrocarboniphaga	0.67	3
+seq_139	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_777	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__; s__	0.67	3
+seq_261	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_670	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_671	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_672	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Novosphingobium; s__	1.00	3
+seq_138	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_674	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_588	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__	1.00	3
+seq_676	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__garvieae	0.67	3
+seq_677	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_589	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_837	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_1227	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_723	Unassigned	1.00	1
+seq_1226	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_704	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_821	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	1.00	3
+seq_1225	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Chryseobacterium; s__	0.67	3
+seq_820	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_955	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Alteromonadales; f__Shewanellaceae; g__Shewanella; s__	0.67	3
+seq_1224	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_803	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Tissierella_Soehngenia; s__	1.00	3
+seq_831	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfuromonadales; f__Geobacteraceae; g__; s__	0.67	3
+seq_705	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_1189	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	1.00	3
+seq_1158	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__	1.00	3
+seq_1073	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_802	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Perlucidibaca; s__	1.00	3
+seq_274	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_275	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Barnesiellaceae]; g__; s__	0.67	3
+seq_276	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_277	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_270	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_271	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__rc4-4; s__	1.00	3
+seq_272	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_273	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	1.00	3
+seq_173	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_172	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_171	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_260	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_278	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_279	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_175	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__RFN20; s__	0.67	3
+seq_174	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_624	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_1021	Unassigned	1.00	1
+seq_801	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__; s__	1.00	3
+seq_623	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_622	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_744	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_919	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__; g__; s__	1.00	3
+seq_621	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_1219	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Gallicola; s__	1.00	3
+seq_918	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__	1.00	3
+seq_620	k__Bacteria; p__Firmicutes; c__Clostridia; o__SHA-98; f__; g__; s__	1.00	1
+seq_1170	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Arthrobacter; s__	0.67	3
+seq_1200	Unassigned	1.00	1
+seq_1173	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__	1.00	3
+seq_1020	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_100	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_800	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_1088	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1233	Unassigned	1.00	1
+seq_1159	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Bdellovibrionales; f__Bacteriovoracaceae; g__; s__	0.67	3
+seq_101	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_1171	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	3
+seq_745	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__; s__	0.67	3
+seq_1248	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_64	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_65	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus	0.67	3
+seq_66	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_67	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_60	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_61	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Blautia; s__producta	1.00	3
+seq_62	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	1.00	3
+seq_63	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_1177	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_68	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	0.67	3
+seq_69	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	3
+seq_1176	Unassigned	1.00	1
+seq_1195	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__WAL_1855D; s__	1.00	3
+seq_911	Unassigned	1.00	1
+seq_1197	k__Bacteria; p__Verrucomicrobia; c__[Spartobacteria]; o__[Chthoniobacterales]; f__[Chthoniobacteraceae]; g__DA101; s__	1.00	3
+seq_1196	k__Archaea; p__Crenarchaeota; c__Thaumarchaeota; o__Nitrososphaerales; f__Nitrososphaeraceae; g__Candidatus Nitrososphaera; s__gargensis	1.00	3
+seq_1058	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1059	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_1193	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__; s__	1.00	3
+seq_910	Unassigned	1.00	1
+seq_1054	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_902	k__Bacteria; p__Nitrospirae; c__Nitrospira; o__Nitrospirales; f__[Thermodesulfovibrionaceae]; g__; s__	1.00	3
+seq_993	Unassigned	1.00	1
+seq_1057	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__	0.67	3
+seq_746	Unassigned	1.00	1
+seq_1051	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_1052	Unassigned	1.00	1
+seq_903	Unassigned	1.00	1
+seq_410	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_411	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_412	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_413	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Parvimonas; s__	1.00	3
+seq_414	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Actinobacillus; s__	0.67	3
+seq_415	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	1.00	3
+seq_416	Unassigned	1.00	1
+seq_417	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_418	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_419	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_823	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_822	Unassigned	1.00	1
+seq_825	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_824	Unassigned	1.00	1
+seq_827	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria	1.00	3
+seq_826	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__	0.67	3
+seq_559	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_558	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_1179	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_1178	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1243	Unassigned	1.00	1
+seq_551	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_550	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_553	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__Peptostreptococcus; s__	0.67	3
+seq_552	Unassigned	1.00	1
+seq_555	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_554	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_557	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__europaeus	0.67	3
+seq_556	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_1214	Unassigned	1.00	1
+seq_757	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_391	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__	1.00	3
+seq_756	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_390	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Brevibacteriaceae; g__Brevibacterium; s__	0.67	3
+seq_755	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__venetianus	0.67	3
+seq_860	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodospirillales; f__Acetobacteraceae; g__; s__	0.67	3
+seq_749	Unassigned	1.00	1
+seq_959	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	3
+seq_908	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfobacterales; f__Desulfobulbaceae; g__; s__	1.00	3
+seq_1167	Unassigned	1.00	1
+seq_740	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_753	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_937	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__ph2; s__	1.00	3
+seq_909	Unassigned	1.00	1
+seq_951	Unassigned	1.00	1
+seq_950	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingopyxis; s__	0.67	3
+seq_953	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	0.67	3
+seq_752	Unassigned	1.00	1
+seq_735	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	0.67	3
+seq_734	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_737	Unassigned	1.00	1
+seq_736	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_731	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__; s__	0.67	3
+seq_618	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_733	Unassigned	1.00	1
+seq_732	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_619	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__	1.00	3
+seq_739	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales	1.00	2
+seq_738	Unassigned	1.00	1
+seq_646	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Aeromonadales; f__Aeromonadaceae; g__; s__	1.00	3
+seq_308	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_309	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__SMB53; s__	0.67	3
+seq_741	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae; g__; s__	1.00	3
+seq_617	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_304	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__; s__	0.67	3
+seq_305	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Anaerostipes; s__	1.00	3
+seq_306	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Eggerthella; s__lenta	1.00	3
+seq_307	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_300	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__	1.00	3
+seq_301	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	0.67	3
+seq_302	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_303	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1183	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	2
+seq_1201	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Beijerinckiaceae; g__; s__	1.00	3
+seq_1107	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_612	k__Bacteria; p__Tenericutes; c__Mollicutes; o__RF39; f__; g__; s__	1.00	3
+seq_661	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_1194	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	1
+seq_613	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_780	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_781	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_782	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_783	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__	1.00	3
+seq_742	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_759	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_786	Unassigned	1.00	1
+seq_787	Unassigned	1.00	1
+seq_788	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	1.00	3
+seq_789	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Leuconostocaceae; g__Weissella; s__	0.67	3
+seq_758	Unassigned	1.00	1
+seq_958	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfobacterales; f__Desulfobacteraceae; g__Desulfococcus; s__	0.67	3
+seq_1055	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	1.00	3
+seq_999	Unassigned	1.00	1
+seq_1111	Unassigned	1.00	1
+seq_660	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__viridiflava	0.67	3
+seq_1110	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_601	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_600	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_603	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__	0.67	3
+seq_602	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__RFN20; s__	0.67	3
+seq_605	k__Bacteria; p__Synergistetes; c__Synergistia; o__Synergistales; f__Dethiosulfovibrionaceae; g__Pyramidobacter; s__	1.00	2
+seq_604	Unassigned	1.00	1
+seq_607	Unassigned	1.00	1
+seq_606	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Coprococcus; s__	0.67	3
+seq_609	Unassigned	1.00	1
+seq_608	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_957	Unassigned	1.00	1
+seq_238	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_239	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	0.67	3
+seq_956	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__Agromyces; s__	1.00	3
+seq_230	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Rikenellaceae; g__; s__	1.00	3
+seq_231	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__	0.67	3
+seq_232	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__; g__; s__	0.67	3
+seq_233	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula	0.67	3
+seq_234	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_235	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_236	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__	1.00	3
+seq_237	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Oxalobacter; s__formigenes	0.67	3
+seq_1211	Unassigned	1.00	1
+seq_952	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1003	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	0.67	3
+seq_1002	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Cetobacterium; s__somerae	1.00	3
+seq_1001	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1000	Unassigned	1.00	1
+seq_1007	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae	1.00	3
+seq_881	Unassigned	1.00	1
+seq_1005	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__	1.00	3
+seq_1004	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1009	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Epulopiscium; s__	1.00	3
+seq_880	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__	1.00	3
+seq_765	Unassigned	1.00	1
+seq_766	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa	0.67	3
+seq_730	Unassigned	1.00	1
+seq_124	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_125	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Anaerostipes; s__	1.00	3
+seq_126	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_127	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_120	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_121	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_122	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Finegoldia; s__	1.00	3
+seq_123	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__[Odoribacteraceae]; g__Butyricimonas; s__	1.00	3
+seq_128	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_129	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	1.00	3
+seq_931	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	0.67	3
+seq_1210	Unassigned	1.00	1
+seq_889	Unassigned	1.00	1
+seq_627	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_888	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__	0.67	3
+seq_1149	Unassigned	1.00	1
+seq_519	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__	0.67	3
+seq_518	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_515	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_514	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	1.00	3
+seq_517	Unassigned	1.00	1
+seq_516	Unassigned	1.00	1
+seq_511	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_510	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_513	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_512	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_1137	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_1136	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_1135	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_1134	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_1133	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_1132	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__perfringens	0.67	3
+seq_626	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_1130	Unassigned	1.00	1
+seq_1230	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Dorea; s__	0.67	3
+seq_1139	k__Bacteria; p__Firmicutes; c__Clostridia; o__SHA-98; f__; g__; s__	1.00	1
+seq_1138	k__Bacteria; p__Proteobacteria; c__Zetaproteobacteria; o__Mariprofundales; f__Mariprofundaceae; g__Mariprofundus; s__	1.00	3
+seq_748	Unassigned	1.00	1
+seq_1101	Unassigned	1.00	1
+seq_896	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__[Weeksellaceae]; g__Chryseobacterium; s__	1.00	3
+seq_625	Unassigned	1.00	1
+seq_39	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__S24-7; g__; s__	1.00	3
+seq_38	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Collinsella; s__aerofaciens	1.00	3
+seq_37	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__RF32; f__; g__; s__	1.00	3
+seq_36	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_35	k__Bacteria; p__Verrucomicrobia; c__Verrucomicrobiae; o__Verrucomicrobiales; f__Verrucomicrobiaceae; g__Akkermansia; s__muciniphila	1.00	3
+seq_34	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__	1.00	3
+seq_33	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Porphyromonadaceae; g__Parabacteroides; s__	1.00	3
+seq_32	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__Lachnospira; s__	1.00	3
+seq_31	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	1.00	3
+seq_30	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae	0.67	3
+seq_340	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_341	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_342	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Oscillospira; s__	1.00	3
+seq_343	k__Bacteria; p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__	1.00	3
+seq_344	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	0.67	3
+seq_345	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae	0.67	3
+seq_346	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_347	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae	0.67	3
+seq_348	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Mogibacteriaceae]; g__; s__	1.00	3
+seq_349	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_351	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_725	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_469	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__	0.67	3
+seq_468	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_580	k__Bacteria; p__Bacteroidetes; c__Bacteroidia; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica	1.00	3
+seq_350	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	1
+seq_586	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_587	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Peptoniphilus; s__	1.00	3
+seq_584	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__; s__	1.00	3
+seq_585	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__; s__	0.67	3
+seq_461	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__johnsonii	0.67	3
+seq_460	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_463	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_462	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_465	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_464	Unassigned	1.00	1
+seq_467	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_466	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__[Tissierellaceae]; g__Anaerococcus; s__	1.00	3
+seq_1029	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	1.00	3
+seq_1249	Unassigned	1.00	1
+seq_1028	Unassigned	1.00	1
+seq_712	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_1023	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_906	Unassigned	1.00	1
+seq_907	k__Bacteria; p__Proteobacteria	1.00	2
+seq_904	Unassigned	1.00	1
+seq_905	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_869	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__; s__	1.00	3
+seq_868	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	0.67	3
+seq_900	Unassigned	1.00	1
+seq_901	Unassigned	1.00	1
+seq_865	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_864	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingobium; s__	0.67	3
+seq_867	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__	0.67	3
+seq_866	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__	1.00	3
+seq_861	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Lautropia; s__	1.00	3
+seq_359	k__Bacteria; p__Lentisphaerae; c__[Lentisphaeria]; o__Victivallales; f__Victivallaceae; g__; s__	1.00	3
+seq_863	Unassigned	1.00	1
+seq_862	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Syntrophomonadaceae; g__Syntrophomonas; s__	1.00	3
+seq_645	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__; s__	0.67	3
+seq_644	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Ruminococcus; s__	0.67	3
+seq_647	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Anaerotruncus; s__	0.67	3
+seq_358	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Christensenellaceae; g__; s__	1.00	3
+seq_641	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__; g__; s__	1.00	3
+seq_640	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_643	Unassigned	1.00	1
+seq_642	k__Bacteria; p__Cyanobacteria; c__Chloroplast; o__Streptophyta; f__; g__; s__	1.00	3
+seq_649	k__Bacteria; p__Actinobacteria; c__Coriobacteriia; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__	0.67	3
+seq_648	Unassigned	1.00	1
+seq_887	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3
+seq_886	Unassigned	1.00	1
+seq_885	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Phenylobacterium; s__	1.00	3
+seq_884	k__Bacteria; p__Bacteroidetes; c__Flavobacteriia; o__Flavobacteriales; f__Flavobacteriaceae; g__Flavobacterium; s__	1.00	3
+seq_883	k__Bacteria; p__Bacteroidetes; c__[Saprospirae]; o__[Saprospirales]; f__Chitinophagaceae; g__Sediminibacterium; s__	1.00	3
+seq_882	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae; g__; s__	1.00	3
+seq_768	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_769	Unassigned	1.00	1
+seq_531	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Sinobacteraceae; g__; s__	0.67	3
+seq_767	Unassigned	1.00	1
+seq_764	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa	1.00	3
+seq_398	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__	1.00	3
+seq_762	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_763	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rickettsiales; f__mitochondria	1.00	3
+seq_760	Unassigned	1.00	1
+seq_761	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Oxalobacteraceae; g__Janthinobacterium; s__lividum	0.67	3
+seq_1238	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium; s__	0.67	3
+seq_1022	Unassigned	1.00	1
+seq_1239	Unassigned	1.00	1
+seq_1025	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Dehalobacteriaceae; g__Dehalobacterium; s__	1.00	3
+seq_921	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Paenibacillus; s__	0.67	3
+seq_1027	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__Agromyces; s__	0.67	3
+seq_591	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__Anaerotruncus; s__	1.00	3
+seq_1026	Unassigned	1.00	1
+seq_1228	Unassigned	1.00	1
+seq_590	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Ruminococcaceae; g__; s__	1.00	3

@@ -1,0 +1,15 @@
+OtuPicker parameters:
+best:1
+blast:False
+coverage:0.97
+max_e_value:1.0
+max_pos:10000
+prefilter_identical_sequences:True
+similarity:0.97
+threads:1
+Reference seqs fp (to build sortmerna database): /home/operon/anaconda3/envs/dada2_qiime/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+SortMeRNA database: /home/operon/Documents/lozupone_lab/sortmerna_picked_otus/97_otus
+Num OTUs: 811
+Num failures: 209
+Result path: sortmerna_picked_otus/dada2_otus.txt
+

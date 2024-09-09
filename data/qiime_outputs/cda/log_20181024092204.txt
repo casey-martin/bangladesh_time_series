@@ -1,0 +1,156 @@
+Logging started at 09:22:04 on 24 Oct 2018
+QIIME version: 1.9.1
+
+qiime_config values:
+pick_otus_reference_seqs_fp	/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+sc_queue	all.q
+pynast_template_alignment_fp	/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set_aligned/85_otus.pynast.fasta
+cluster_jobs_fp	start_parallel_jobs.py
+assign_taxonomy_reference_seqs_fp	/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/rep_set/97_otus.fasta
+torque_queue	friendlyq
+jobs_to_start	1
+denoiser_min_per_core	50
+assign_taxonomy_id_to_taxonomy_fp	/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus/taxonomy/97_otu_taxonomy.txt
+temp_dir	/tmp/
+blastall_fp	blastall
+seconds_to_sleep	1
+
+parameter file values:
+parallel:jobs_to_start	1
+
+Input file md5 sums:
+dada2_otu_table_w_tax_no_pynast_failures.biom: f870f8cf3919b0ebc35b30fa05ec7667
+full_maps_corrected.txt: 5a7871fe6917fa8a6d20356569fb1bcd
+rep_set.tre: a92472a85ffd08c1222f8b94c111d163
+
+Executing commands.
+
+# Generate BIOM table summary command 
+biom summarize-table -i dada2_otu_table_w_tax_no_pynast_failures.biom -o cda/biom_table_summary.txt 
+
+Stdout:
+
+Stderr:
+
+# Filter low sequence count samples from table (minimum sequence count: 7500) command 
+filter_samples_from_otu_table.py -i dada2_otu_table_w_tax_no_pynast_failures.biom -o cda/table_mc7500.biom -n 7500
+
+Stdout:
+
+Stderr:
+
+# Rarify the OTU table to 7500 sequences/sample command 
+single_rarefaction.py -i cda/table_mc7500.biom -o cda/table_even7500.biom -d 7500
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Beta Diversity (weighted_unifrac) command 
+beta_diversity.py -i cda/table_even7500.biom -o cda/bdiv_even7500/ --metrics weighted_unifrac  -t rep_set.tre 
+
+Stdout:
+
+Stderr:
+
+# Rename distance matrix (weighted_unifrac) command 
+mv cda/bdiv_even7500//weighted_unifrac_table_even7500.txt cda/bdiv_even7500//weighted_unifrac_dm.txt
+
+Stdout:
+
+Stderr:
+
+# Principal coordinates (weighted_unifrac) command 
+principal_coordinates.py -i cda/bdiv_even7500//weighted_unifrac_dm.txt -o cda/bdiv_even7500//weighted_unifrac_pc.txt 
+
+Stdout:
+
+Stderr:
+/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/skbio/stats/ordination/_principal_coordinate_analysis.py:107: RuntimeWarning: The result contains negative eigenvalues. Please compare their magnitude with the magnitude of some of the largest positive eigenvalues. If the negative ones are smaller, it's probably safe to ignore them, but if they are large in magnitude, the results won't be useful. See the Notes section for more details. The smallest eigenvalue is -0.318544816946 and the largest is 7.43382846239.
+  RuntimeWarning
+
+# Make emperor plots, weighted_unifrac) command 
+make_emperor.py -i cda/bdiv_even7500//weighted_unifrac_pc.txt -o cda/bdiv_even7500//weighted_unifrac_emperor_pcoa_plot/ -m full_maps_corrected.txt 
+
+Stdout:
+
+Stderr:
+
+# Beta Diversity (unweighted_unifrac) command 
+beta_diversity.py -i cda/table_even7500.biom -o cda/bdiv_even7500/ --metrics unweighted_unifrac  -t rep_set.tre 
+
+Stdout:
+
+Stderr:
+
+# Rename distance matrix (unweighted_unifrac) command 
+mv cda/bdiv_even7500//unweighted_unifrac_table_even7500.txt cda/bdiv_even7500//unweighted_unifrac_dm.txt
+
+Stdout:
+
+Stderr:
+
+# Principal coordinates (unweighted_unifrac) command 
+principal_coordinates.py -i cda/bdiv_even7500//unweighted_unifrac_dm.txt -o cda/bdiv_even7500//unweighted_unifrac_pc.txt 
+
+Stdout:
+
+Stderr:
+/home/operon/anaconda2/envs/dada2_qiime/lib/python2.7/site-packages/skbio/stats/ordination/_principal_coordinate_analysis.py:107: RuntimeWarning: The result contains negative eigenvalues. Please compare their magnitude with the magnitude of some of the largest positive eigenvalues. If the negative ones are smaller, it's probably safe to ignore them, but if they are large in magnitude, the results won't be useful. See the Notes section for more details. The smallest eigenvalue is -0.148746799469 and the largest is 12.2310315256.
+  RuntimeWarning
+
+# Make emperor plots, unweighted_unifrac) command 
+make_emperor.py -i cda/bdiv_even7500//unweighted_unifrac_pc.txt -o cda/bdiv_even7500//unweighted_unifrac_emperor_pcoa_plot/ -m full_maps_corrected.txt 
+
+Stdout:
+
+Stderr:
+
+Executing commands.
+
+# Alpha rarefaction command 
+multiple_rarefactions.py -i cda/table_mc7500.biom -m 10 -x 7500 -s 749 -o cda/arare_max7500//rarefaction/ 
+
+Stdout:
+
+Stderr:
+
+# Alpha diversity on rarefied OTU tables command 
+alpha_diversity.py -i cda/arare_max7500//rarefaction/ -o cda/arare_max7500//alpha_div/  -t rep_set.tre
+
+Stdout:
+
+Stderr:
+
+# Collate alpha command 
+collate_alpha.py -i cda/arare_max7500//alpha_div/ -o cda/arare_max7500//alpha_div_collated/ 
+
+Stdout:
+
+Stderr:
+
+# Removing intermediate files command 
+rm -r cda/arare_max7500//rarefaction/ cda/arare_max7500//alpha_div/
+
+Stdout:
+
+Stderr:
+
+# Rarefaction plot: All metrics command 
+make_rarefaction_plots.py -i cda/arare_max7500//alpha_div_collated/ -m full_maps_corrected.txt -o cda/arare_max7500//alpha_rarefaction_plots/ 
+
+
+
+*** ERROR RAISED DURING STEP: Rarefaction plot: All metrics
+Command run was:
+ make_rarefaction_plots.py -i cda/arare_max7500//alpha_div_collated/ -m full_maps_corrected.txt -o cda/arare_max7500//alpha_rarefaction_plots/ 
+Command returned exit status: 1
+Stdout:
+
+Stderr
+ICE default IO error handler doing an exit(), pid = 14458, errno = 32
+
+
+Logging stopped at 09:26:51 on 24 Oct 2018
